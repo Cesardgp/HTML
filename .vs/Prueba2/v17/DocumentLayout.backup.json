@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|c:\\users\\acer\\desktop\\project progresst\\prueba2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|c:\\users\\acer\\desktop\\project progresst\\prueba2\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|solutionrelative:services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|c:\\users\\acer\\desktop\\project progresst\\prueba2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|c:\\users\\acer\\desktop\\project progresst\\prueba2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|c:\\users\\acer\\desktop\\project progresst\\prueba2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|c:\\users\\acer\\desktop\\project progresst\\prueba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|c:\\users\\acer\\desktop\\project progresst\\prueba2\\models\\mongoappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|solutionrelative:models\\mongoappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|c:\\users\\acer\\desktop\\project progresst\\prueba2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E463AD6D-4CCE-43A2-B9BC-0B0069C0D1EF}|Prueba2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:11:54.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T13:24:34.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "Services\\UsuarioServices.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:41:52.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T13:50:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-10T13:33:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoAppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Models\\MongoAppSettings.cs",
+              "RelativeDocumentMoniker": "Models\\MongoAppSettings.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Models\\MongoAppSettings.cs",
+              "RelativeToolTip": "Models\\MongoAppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:38:42.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:28:04.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Project Progresst\\Prueba2\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:19:57.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
